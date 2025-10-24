@@ -20,13 +20,15 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChiraX\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranthan497\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiraX\&layout=compact\&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/chiranthan-ms-567a71302/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/chiranthan-ms-567a71302/)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/chiramthan?s=21)
+
 
 
