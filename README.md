@@ -27,6 +27,6 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https:/linkedin.com/in/chiranthan-ms-567a71302) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](linkedin.com/in/chiranthan-ms-567a71302) 
 
 
