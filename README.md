@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chiranthan!
+# Hey, I'm Chiranthan!
 
 - 💻 Final-year CS student | Full-stack developer
 - 🎯 Goal: Build practical projects to learn and demonstrate skills
